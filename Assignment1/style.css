@@ -20,7 +20,7 @@ body,html{
       width: 25%;
       height: 100%;
       float: left;
-      background-color: rosybrown;
+      background-color: #073b4c;
       border-collapse: collapse;
       
   }
@@ -53,6 +53,17 @@ body,html{
 
 
 
-  h2,h3,ol,a{
+  h2,h3,ol,p{
     margin: 2rem;
+  }
+
+  a{
+    color: white;
+  margin: 2rem;
+  text-decoration: none;
+
+  }
+  a:hover
+  {
+    color: blue;
   }
